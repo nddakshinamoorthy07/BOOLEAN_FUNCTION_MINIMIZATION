@@ -43,16 +43,14 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: 212224230049
 
 
 **RTL realization**
 ![image](https://github.com/user-attachments/assets/b28c98c9-8270-4e31-84ba-fb1186c44321)
-**Output:**
-
-**RTL**
 
 **Timing Diagram**
+![image](https://github.com/user-attachments/assets/3af43670-54e4-4eaa-aab0-b67c048938e3)
 
 **Result:**
 
